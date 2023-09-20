@@ -1,0 +1,29 @@
+/* google fonts css */
+*{
+  font-family: 'Mooli', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+/* google fonts css */
+/* category css-start */
+.h-1{
+  color: #FA804C;
+  
+}
+.h-2{
+  color:#363958;
+}
+/* category css-end */
+/* formal shoes css-start  */
+section{
+  margin-top: 150px;
+}
+/* formal shoes css-end  */
+/* e-commerce css-start */
+.e-commerce h1{
+  font-size: 30px;
+}
+.e-commerce-h{
+  margin-top: 200px;
+ 
+}
+/* e-commerce css-start */
